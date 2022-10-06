@@ -1,2 +1,2 @@
-baseurl = "https:/niponmoe.github.io/doks-gh-pages/"
+baseurl = https:/niponmoe.github.io/doks-gh-pages/
 canonifyURLs = true
